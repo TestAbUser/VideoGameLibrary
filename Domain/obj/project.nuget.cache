@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFnOjCQOIoA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IsaRu\\source\\repos\\VideoGameLibrary - Copy\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IsaRu\\.nuget\\packages\\refit\\8.0.0\\refit.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
